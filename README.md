@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @pharrahlita
-- 👀 I’m interested in cybersecurity, gaming, web development and VFX
-- 🌱 I’m currently studying a bachelors with honours in cyber security management 
-- 💞️ I’m looking to collaborate on game projects, cyber security projects and web development projects. 
-- 📫 You can reach me through my twitter @pharrahlita
+-  Hi, I’m @pharrahlita
+-  I’m interested in cybersecurity, gaming, web development and VFX
+-  I’m currently studying a bachelors with honours in cyber security management 
+-  I’m looking to collaborate on game projects, cyber security projects and web development projects. 
