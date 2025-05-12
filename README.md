@@ -1,3 +1,4 @@
 -  Hi, I’m @pharrahlita
--  I’m interested in cybersecurity, gaming, web development and GFX/VFX
--  I’m looking to collaborate on game projects, cyber security projects and web development projects. 
+-  I’m interested in cybersecurity, gaming, web development, pixel art and GFX/VFX
+-  I’m looking to collaborate on game projects, cyber security projects and web development projects.
+-  https://pharrahlita.artstation.com/
