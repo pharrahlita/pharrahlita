@@ -5,6 +5,6 @@
 ⋆˙⟡ — down to collab on games, cybery things, or cool web builds  
 
 
-[🎨 artstation](https://pharrahlita.artstation.com/) for some of my pixels and scribbles
+[🎨 artstation](https://cara.app/siany) for some of my pixels and scribbles
 
 📫 [email](mailto:pharrahlita@gmail.com) • 🌐 [portfolio coming soon](x)
