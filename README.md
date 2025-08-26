@@ -22,7 +22,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pharrahlita&layout=compact&theme=catppuccin" alt="Top Langs" height="180"/>
-  <img src="https://streak-stats.demolab.com?user=pharrahlita&theme=highcontrast" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=pharrahlita&theme=catppuccin" alt="GitHub Streak" />
 
 </p>
 
