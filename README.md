@@ -18,10 +18,11 @@
 ### ˚₊‧꒰ა  ​🇨​​🇷​​🇪​​🇦​​🇹​​🇮​​🇻​​🇪​ ​🇹​​🇪​​🇨​​🇭​ ໒꒱ ‧₊˚ 
 🎨 🇵​​🇮​​🇽​​🇪​​🇱​ ​🇦​​🇷​​🇹​ (🇦​​🇸​​🇪​​🇵​​🇷​​🇮​​🇹​​🇪​) •   📽️ ​🇦​​🇩​​🇴​​🇧​​🇪​ ​🇸​​🇺​​🇮​​🇹​​🇪​ •   ✨ ​🇺​​🇮​/​🇺​​🇽​ ​🇩​​🇪​​🇸​​🇮​​🇬​​🇳​ •  🎮 ​🇬​​🇦​​🇲​​🇮​​🇫​​🇮​​🇨​​🇦​​🇹​​🇮​​🇴​​🇳​ •  💫 ​🇮​​🇳​​🇹​​🇪​​🇷​​🇦​​🇨​​🇹​​🇮​​🇻​​🇪​ ​🇼​​🇪​​🇧​ ​🇪​​🇽​​🇵​​🇪​​🇷​​🇮​​🇪​​🇳​​🇨​​🇪​​🇸​
 
-## 𝚜𝚝𝚊𝚝𝚜 ૮꒰ ˶• ༝ •˶꒱ა ♡  
+## 𝚛𝚊𝚗𝚍𝚘𝚖 ٩(ˊᗜˋ*)و ♡  
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pharrahlita&layout=compact&theme=catppuccin&bg_color=0d1117&title_color=cce3d1&text_color=ffffff&icon_color=a7d7a9&hide_border=true" height="180"/>
+<img src="https://github-profile-trophy.vercel.app/?username=pharrahlita&theme=onedark&no-bg=true&no-frame=true&margin-w=8&row=1&column=6" />
 
 
 ![Built with Love](https://img.shields.io/badge/Built%20with-Love-pink?style=flat-square&logo=heart)
