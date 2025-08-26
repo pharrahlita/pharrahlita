@@ -7,13 +7,47 @@
 
 # 𝚜𝚔𝚒𝚕𝚕𝚜 ૮꒰ ˶• ༝ •˶꒱ა ♡
 ### ˚₊‧꒰ა ​🇫​​🇷​​🇴​​🇳​​🇹​​🇪​​🇳​​🇩​ / ​🇩​​🇪​​🇸​​🇮​​🇬​​🇳​ ໒꒱ ‧₊˚ 
-  <img src="https://skillicons.dev/icons?i=react,vite,ts,js,css,sass,html,figma,tailwind,threejs" />
+<p>
+  <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" height="40"/></a>
+  <a href="https://vitejs.dev/"><img src="https://skillicons.dev/icons?i=vite" height="40"/></a>
+  <a href="https://www.typescriptlang.org/docs/"><img src="https://skillicons.dev/icons?i=ts" height="40"/></a>
+  <a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" height="40"/></a>
+  <a href="https://developer.mozilla.org/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" height="40"/></a>
+  <a href="https://sass-lang.com/guide/"><img src="https://skillicons.dev/icons?i=sass" height="40"/></a>
+  <a href="https://developer.mozilla.org/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" height="40"/></a>
+  <a href="https://www.figma.com/resources/learn/"><img src="https://skillicons.dev/icons?i=figma" height="40"/></a>
+  <a href="https://tailwindcss.com/docs"><img src="https://skillicons.dev/icons?i=tailwind" height="40"/></a>
+  <a href="https://threejs.org/docs/"><img src="https://skillicons.dev/icons?i=threejs" height="40"/></a>
+</p>
 
 ### ˚₊‧꒰ა ​🇨​​🇾​​🇧​​🇪​​🇷​ / ​🇧​​🇦​​🇨​​🇰​​🇪​​🇳​​🇩​  ໒꒱ ‧₊˚
-  <img src="https://skillicons.dev/icons?i=python,cs,wordpress,kali,linux,powershell,mysql" />
-
+<p>
+  <a href="https://docs.python.org/3/" target="_blank"><img src="https://skillicons.dev/icons?i=python" height="40"/></a>
+  <a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank"><img src="https://skillicons.dev/icons?i=cs" height="40"/></a>
+  <a href="https://wordpress.org/support/article/wordpress-lessons/" target="_blank"><img src="https://skillicons.dev/icons?i=wordpress" height="40"/></a>
+  <a href="https://www.kali.org/docs/" target="_blank"><img src="https://skillicons.dev/icons?i=kali" height="40"/></a>
+  <a href="https://www.linux.org/docs/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" height="40"/></a>
+  <a href="https://learn.microsoft.com/powershell/" target="_blank"><img src="https://skillicons.dev/icons?i=powershell" height="40"/></a>
+  <a href="https://dev.mysql.com/doc/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" height="40"/></a>
+</p>
 ### ​˚₊‧꒰ა  🇹​​🇴​​🇴​​🇱​​🇸​ / 🇴🇹​​🇭🇪🇷​​ ​​໒꒱ ‧₊˚
-<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,blender,replit,discord,ps,xd,premiere,ae,au,unity,yarn,netlify" />  
+<p>
+  <a href="https://git-scm.com/doc" target="_blank"><img src="https://skillicons.dev/icons?i=git" height="40"/></a>
+  <a href="https://docs.github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
+  <a href="https://code.visualstudio.com/docs" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" height="40"/></a>
+  <a href="https://docs.npmjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=npm" height="40"/></a>
+  <a href="https://docs.blender.org/manual/en/latest/" target="_blank"><img src="https://skillicons.dev/icons?i=blender" height="40"/></a>
+  <a href="https://docs.replit.com/" target="_blank"><img src="https://skillicons.dev/icons?i=replit" height="40"/></a>
+  <a href="https://support.discord.com/hc/en-us" target="_blank"><img src="https://skillicons.dev/icons?i=discord" height="40"/></a>
+  <a href="https://helpx.adobe.com/photoshop/user-guide.html" target="_blank"><img src="https://skillicons.dev/icons?i=ps" height="40"/></a>
+  <a href="https://helpx.adobe.com/xd/user-guide.html" target="_blank"><img src="https://skillicons.dev/icons?i=xd" height="40"/></a>
+  <a href="https://helpx.adobe.com/premiere-pro/user-guide.html" target="_blank"><img src="https://skillicons.dev/icons?i=premiere" height="40"/></a>
+  <a href="https://helpx.adobe.com/after-effects/user-guide.html" target="_blank"><img src="https://skillicons.dev/icons?i=ae" height="40"/></a>
+  <a href="https://helpx.adobe.com/audition/user-guide.html" target="_blank"><img src="https://skillicons.dev/icons?i=au" height="40"/></a>
+  <a href="https://unity.com/learn" target="_blank"><img src="https://skillicons.dev/icons?i=unity" height="40"/></a>
+  <a href="https://yarnpkg.com/getting-started" target="_blank"><img src="https://skillicons.dev/icons?i=yarn" height="40"/></a>
+  <a href="https://docs.netlify.com/" target="_blank"><img src="https://skillicons.dev/icons?i=netlify" height="40"/></a>
+</p>
 
 ### ˚₊‧꒰ა  ​🇨​​🇷​​🇪​​🇦​​🇹​​🇮​​🇻​​🇪​ ​🇹​​🇪​​🇨​​🇭​ ໒꒱ ‧₊˚ 
 🎨 🇵​​🇮​​🇽​​🇪​​🇱​ ​🇦​​🇷​​🇹​ (🇦​​🇸​​🇪​​🇵​​🇷​​🇮​​🇹​​🇪​) •   📽️ ​🇦​​🇩​​🇴​​🇧​​🇪​ ​🇸​​🇺​​🇮​​🇹​​🇪​ •   ✨ ​🇺​​🇮​/​🇺​​🇽​ ​🇩​​🇪​​🇸​​🇮​​🇬​​🇳​ •  🎮 ​🇬​​🇦​​🇲​​🇮​​🇫​​🇮​​🇨​​🇦​​🇹​​🇮​​🇴​​🇳​ •  💫 ​🇮​​🇳​​🇹​​🇪​​🇷​​🇦​​🇨​​🇹​​🇮​​🇻​​🇪​ ​🇼​​🇪​​🇧​ ​🇪​​🇽​​🇵​​🇪​​🇷​​🇮​​🇪​​🇳​​🇨​​🇪​​🇸​
