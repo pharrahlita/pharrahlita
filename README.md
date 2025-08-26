@@ -18,30 +18,23 @@
 ### ˚₊‧꒰ა  ​🇨​​🇷​​🇪​​🇦​​🇹​​🇮​​🇻​​🇪​ ​🇹​​🇪​​🇨​​🇭​ ໒꒱ ‧₊˚ 
 🎨 🇵​​🇮​​🇽​​🇪​​🇱​ ​🇦​​🇷​​🇹​ (🇦​​🇸​​🇪​​🇵​​🇷​​🇮​​🇹​​🇪​) •   📽️ ​🇦​​🇩​​🇴​​🇧​​🇪​ ​🇸​​🇺​​🇮​​🇹​​🇪​ •   ✨ ​🇺​​🇮​/​🇺​​🇽​ ​🇩​​🇪​​🇸​​🇮​​🇬​​🇳​ •  🎮 ​🇬​​🇦​​🇲​​🇮​​🇫​​🇮​​🇨​​🇦​​🇹​​🇮​​🇴​​🇳​ •  💫 ​🇮​​🇳​​🇹​​🇪​​🇷​​🇦​​🇨​​🇹​​🇮​​🇻​​🇪​ ​🇼​​🇪​​🇧​ ​🇪​​🇽​​🇵​​🇪​​🇷​​🇮​​🇪​​🇳​​🇨​​🇪​​🇸​
 
-## 𝚛𝚊𝚗𝚍𝚘𝚖 ٩(ˊᗜˋ*)و ♡  
+## 𝚜𝚝𝚊𝚝𝚜 ٩(ˊᗜˋ*)و ♡  
 
 <p align="center">
-  <!-- left vine -->
   <img 
     src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyNnc4N3Z4NGhucnlsNDIwZGU5ZGpuaDI1ZTVzOXE5ZHo3eXNiZzk4YSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/QJfZLi0d2FovlP5gZv/giphy.gif"
     height="180"
-    style="margin-right:20px;"
     alt="Vine Left"
-  />
-
-  <!-- stats card -->
-  <img
+    style="margin-right:20px;"
+  /><img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=pharrahlita&layout=compact&theme=catppuccin&bg_color=0d1117&title_color=cce3d1&text_color=ffffff&icon_color=a7d7a9&hide_border=true"
     height="180"
     alt="Top Languages"
-  />
-
-  <!-- right vine (flipped horizontally) -->
-  <img 
+  /><img 
     src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyNnc4N3Z4NGhucnlsNDIwZGU5ZGpuaDI1ZTVzOXE5ZHo3eXNiZzk4YSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/QJfZLi0d2FovlP5gZv/giphy.gif"
     height="180"
-    style="margin-left:20px; transform: scaleX(-1);"
     alt="Vine Right"
+    style="margin-left:20px; transform: scaleX(-1);"
   />
 </p>
 
