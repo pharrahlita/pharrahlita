@@ -21,10 +21,8 @@
 ## 𝚜𝚝𝚊𝚝𝚜 ૮꒰ ˶• ༝ •˶꒱ა ♡  
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pharrahlita&layout=compact&theme=catppuccin&bg_color=324d39&title_color=ffffff&text_color=cce3d1&icon_color=a7d7a9" alt="Top Langs" height="180"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pharrahlita&bg_color=324d39&color=cce3d1&line=a7d7a9&point=ffffff&area=true&hide_border=true" height="250"/>
-<img src="https://github-profile-trophy.vercel.app/?username=pharrahlita&theme=onedark&row=1&column=6" />
-![Snake animation](https://github.com/pharrahlita/pharrahlita/blob/output/github-contribution-grid-snake.svg)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pharrahlita&layout=compact&theme=catppuccin&bg_color=0d1117&title_color=cce3d1&text_color=ffffff&icon_color=a7d7a9&hide_border=true" height="180"/>
+
 
 ![Built with Love](https://img.shields.io/badge/Built%20with-Love-pink?style=flat-square&logo=heart)
 
