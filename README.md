@@ -10,7 +10,7 @@
   <img src="https://skillicons.dev/icons?i=react,vite,ts,js,css,sass,html,figma,tailwind,threejs" />
 
 ### ˚₊‧꒰ა ​🇨​​🇾​​🇧​​🇪​​🇷​ / ​🇧​​🇦​​🇨​​🇰​​🇪​​🇳​​🇩​  ໒꒱ ‧₊˚
-  <img src="https://skillicons.dev/icons?i=python,cpp,cs,php,wordpress,kali,linuxnodejs,powershell,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,cs,php,wordpress,kali,linux,nodejs,powershell,mysql" />
 
 ### ​˚₊‧꒰ა  🇹​​🇴​​🇴​​🇱​​🇸​ / 🇴🇹​​🇭🇪🇷​​ ​​໒꒱ ‧₊˚
 <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,blender,replit,discord,ps,xd,premiere,ae,au,unity,yarn,netlify" />  
