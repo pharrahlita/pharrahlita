@@ -10,13 +10,22 @@
   <img src="https://skillicons.dev/icons?i=react,vite,ts,js,css,sass,html,figma,tailwind,threejs" />
 
 ### ˚₊‧꒰ა ​🇨​​🇾​​🇧​​🇪​​🇷​ / ​🇧​​🇦​​🇨​​🇰​​🇪​​🇳​​🇩​  ໒꒱ ‧₊˚
-  <img src="https://skillicons.dev/icons?i=python,cpp,cs,php,wordpress,kali,linux,nodejs,powershell,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,cs,wordpress,kali,linux,nodejs,powershell,mysql" />
 
 ### ​˚₊‧꒰ა  🇹​​🇴​​🇴​​🇱​​🇸​ / 🇴🇹​​🇭🇪🇷​​ ​​໒꒱ ‧₊˚
 <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,blender,replit,discord,ps,xd,premiere,ae,au,unity,yarn,netlify" />  
 
 ### ˚₊‧꒰ა  ​🇨​​🇷​​🇪​​🇦​​🇹​​🇮​​🇻​​🇪​ ​🇹​​🇪​​🇨​​🇭​ ໒꒱ ‧₊˚ 
 🎨 🇵​​🇮​​🇽​​🇪​​🇱​ ​🇦​​🇷​​🇹​ (🇦​​🇸​​🇪​​🇵​​🇷​​🇮​​🇹​​🇪​) •   📽️ ​🇦​​🇩​​🇴​​🇧​​🇪​ ​🇸​​🇺​​🇮​​🇹​​🇪​ •   ✨ ​🇺​​🇮​/​🇺​​🇽​ ​🇩​​🇪​​🇸​​🇮​​🇬​​🇳​ •  🎮 ​🇬​​🇦​​🇲​​🇮​​🇫​​🇮​​🇨​​🇦​​🇹​​🇮​​🇴​​🇳​ •  💫 ​🇮​​🇳​​🇹​​🇪​​🇷​​🇦​​🇨​​🇹​​🇮​​🇻​​🇪​ ​🇼​​🇪​​🇧​ ​🇪​​🇽​​🇵​​🇪​​🇷​​🇮​​🇪​​🇳​​🇨​​🇪​​🇸​
+
+## 𝚜𝚝𝚊𝚝𝚜 ૮꒰ ˶• ༝ •˶꒱ა ♡  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight" alt="Top Langs" height="180"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
+
+</p>
 
 # 𝚜𝚘𝚌𝚒𝚊𝚕𝚜 ૮₍ • ˕ - ₎ა♡₊˚
 [🎨 🇨​​🇦​​🇷​​🇦​.​🇦​​🇵​​🇵​](https://cara.app/siany) ​🇫​​🇴​​🇷​ ​🇸​​🇴​​🇲​​🇪​ ​🇴​​🇫​ ​🇲​​🇾​ ​🇵​​🇮​​🇽​​🇪​​🇱​​🇸​ ​🇦​​🇳​​🇩​ ​🇸​​🇨​​🇷​​🇮​​🇧​​🇧​​🇱​​🇪​​🇸 </br>
