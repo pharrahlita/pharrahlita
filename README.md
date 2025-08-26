@@ -6,14 +6,14 @@
 ⋆˙⟡ — 🌍 based in the uk
 
 # skills
-### frontend / design
+### ˚₊‧꒰ა frontend / design ໒꒱ ‧₊˚ 
 react • vite • typscript • javascript • css • sass • html • figma • aseprite
 
-### cyber / backend
+### ˚₊‧꒰ა cyber / backend  ໒꒱ ‧₊˚
 python • c++ • linux • networking basics
 
-### creative tech
-pixel art • ui/ux design • gamification • interactive web experiences
+### ˚₊‧꒰ა  creative tech ໒꒱ ‧₊˚ 
+pixel art • adobe suite • ui/ux design • gamification • interactive web experiences
 
 ### tools
 git • vscode • blender • photoshop
