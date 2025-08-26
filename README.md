@@ -23,9 +23,14 @@
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pharrahlita&layout=compact&theme=catppuccin&bg_color=0d1117&title_color=cce3d1&text_color=ffffff&icon_color=a7d7a9&hide_border=true" height="180"/>
 
-![Built with Love](https://img.shields.io/badge/Built%20with-💖-64815d?style=for-the-badge)
-![Currently Learning](https://img.shields.io/badge/Learning-React-B5AF93?style=for-the-badge&logo=react&logoColor=white)
-![Powered by Coffee](https://img.shields.io/badge/Powered%20by-Coffee-B4C9BC?style=for-the-badge&logo=coffeescript&logoColor=white)
+![frontend dev](https://img.shields.io/badge/frontend-dev-64815d?style=for-the-badge&logo=react&logoColor=white)
+![pixel art](https://img.shields.io/badge/pixel-art-B5AF93?style=for-the-badge)
+![ui/ux design](https://img.shields.io/badge/ui%2Fux-design-B4C9BC?style=for-the-badge&logo=figma&logoColor=white)
+
+![cybersecurity](https://img.shields.io/badge/cyber-security-64815d?style=for-the-badge&logo=linux&logoColor=white)
+![open source](https://img.shields.io/badge/open-source-B5AF93?style=for-the-badge&logo=github&logoColor=white)
+![matcha fueled](https://img.shields.io/badge/matcha-fueled-B4C9BC?style=for-the-badge&logo=leaflet&logoColor=white)
+
 
 
 
