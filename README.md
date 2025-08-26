@@ -21,9 +21,7 @@
 ## 𝚜𝚝𝚊𝚝𝚜 ૮꒰ ˶• ༝ •˶꒱ა ♡  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pharrahlita&layout=compact&theme=catppuccin" alt="Top Langs" height="180"/>
-  <img src="https://streak-stats.demolab.com/?user=pharrahlita&theme=tokyonight" alt="GitHub Streak" height="180"/>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pharrahlita&layout=compact&theme=catppuccin&bg_color=324d39&title_color=ffffff&text_color=cce3d1&icon_color=a7d7a9" alt="Top Langs" height="180"/>
 </p>
 
 # 𝚜𝚘𝚌𝚒𝚊𝚕𝚜 ૮₍ • ˕ - ₎ა♡₊˚
