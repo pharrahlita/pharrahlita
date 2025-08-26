@@ -19,5 +19,5 @@ pixel art • adobe suite • ui/ux design • gamification • interactive web 
 git • vscode • blender • photoshop
 
 # socials
-[🎨 cara.app](https://cara.app/siany) for some of my pixels and scribbles
+[🎨 cara.app](https://cara.app/siany) for some of my pixels and scribbles </br>
 📫 [email](mailto:pharrahlita@gmail.com) • 🌐 [portfolio coming soon](x)
