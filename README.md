@@ -34,7 +34,6 @@
     src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyNnc4N3Z4NGhucnlsNDIwZGU5ZGpuaDI1ZTVzOXE5ZHo3eXNiZzk4YSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/QJfZLi0d2FovlP5gZv/giphy.gif"
     height="180"
     alt="Vine Right"
-    dir="rtl"
     style="margin-left:20px;"
   />
 </p>
