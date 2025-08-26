@@ -7,13 +7,13 @@
 
 # 𝚜𝚔𝚒𝚕𝚕𝚜 ૮꒰ ˶• ༝ •˶꒱ა ♡
 ### ˚₊‧꒰ა ​🇫​​🇷​​🇴​​🇳​​🇹​​🇪​​🇳​​🇩​ / ​🇩​​🇪​​🇸​​🇮​​🇬​​🇳​ ໒꒱ ‧₊˚ 
-<img src="https://skillicons.dev/icons?i=react,vite,ts,js,css,sass,html,figma" />  
+  <img src="https://skillicons.dev/icons?i=react,vite,ts,js,css,sass,html,figma,ps,xd,premiere,ae,au" />
 
 ### ˚₊‧꒰ა ​🇨​​🇾​​🇧​​🇪​​🇷​ / ​🇧​​🇦​​🇨​​🇰​​🇪​​🇳​​🇩​  ໒꒱ ‧₊˚
-<img src="https://skillicons.dev/icons?i=python,cpp,linux" />  
+  <img src="https://skillicons.dev/icons?i=python,cpp,csharp,php,wordpress,linux,mysql" />
 
-### ​˚₊‧꒰ა  🇹​​🇴​​🇴​​🇱​​🇸​ ໒꒱ ‧₊˚
-<img src="https://skillicons.dev/icons?i=git,vscode,blender,discord" />  
+### ​˚₊‧꒰ა  🇹​​🇴​​🇴​​🇱​​🇸​ / 🇴🇹​​🇭🇪🇷​​ ​​໒꒱ ‧₊˚
+<img src="https://skillicons.dev/icons?i=git,vscode,npm,blender,discord,unity" />  
 
 ### ˚₊‧꒰ა  ​🇨​​🇷​​🇪​​🇦​​🇹​​🇮​​🇻​​🇪​ ​🇹​​🇪​​🇨​​🇭​ ໒꒱ ‧₊˚ 
 🎨 🇵​​🇮​​🇽​​🇪​​🇱​ ​🇦​​🇷​​🇹​ (🇦​​🇸​​🇪​​🇵​​🇷​​🇮​​🇹​​🇪​) •   📽️ ​🇦​​🇩​​🇴​​🇧​​🇪​ ​🇸​​🇺​​🇮​​🇹​​🇪​ •   ✨ ​🇺​​🇮​/​🇺​​🇽​ ​🇩​​🇪​​🇸​​🇮​​🇬​​🇳​ •  🎮 ​🇬​​🇦​​🇲​​🇮​​🇫​​🇮​​🇨​​🇦​​🇹​​🇮​​🇴​​🇳​ •  💫 ​🇮​​🇳​​🇹​​🇪​​🇷​​🇦​​🇨​​🇹​​🇮​​🇻​​🇪​ ​🇼​​🇪​​🇧​ ​🇪​​🇽​​🇵​​🇪​​🇷​​🇮​​🇪​​🇳​​🇨​​🇪​​🇸​
