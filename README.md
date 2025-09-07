@@ -6,7 +6,7 @@
 ⋆˙⟡ — 🌍 ​🇧​​🇦​​🇸​​🇪​​🇩​ ​🇮​​🇳​ ​🇹​​🇭​​🇪​ ​🇺​​🇰​
 
 # 𝚜𝚔𝚒𝚕𝚕𝚜 ૮꒰ ˶• ༝ •˶꒱ა ♡
-## ˚₊‧꒰ა ​🇫​​🇷​​🇴​​🇳​​🇹​​🇪​​🇳​​🇩​ / ​🇩​​🇪​​🇸​​🇮​​🇬​​🇳​ ໒꒱ ‧₊˚ 
+### ˚₊‧꒰ა ​🇫​​🇷​​🇴​​🇳​​🇹​​🇪​​🇳​​🇩​ / ​🇩​​🇪​​🇸​​🇮​​🇬​​🇳​ ໒꒱ ‧₊˚ 
 <p>
   <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" height="40"/></a>
   <a href="https://vitejs.dev/"><img src="https://skillicons.dev/icons?i=vite" height="40"/></a>
@@ -20,7 +20,7 @@
   <a href="https://threejs.org/docs/"><img src="https://skillicons.dev/icons?i=threejs" height="40"/></a>
 </p>
 
-## ˚₊‧꒰ა ​🇨​​🇾​​🇧​​🇪​​🇷​ / ​🇧​​🇦​​🇨​​🇰​​🇪​​🇳​​🇩​  ໒꒱ ‧₊˚
+### ˚₊‧꒰ა ​🇨​​🇾​​🇧​​🇪​​🇷​ / ​🇧​​🇦​​🇨​​🇰​​🇪​​🇳​​🇩​  ໒꒱ ‧₊˚
 <p>
   <a href="https://docs.python.org/3/" target="_blank"><img src="https://skillicons.dev/icons?i=python" height="40"/></a>
   <a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank"><img src="https://skillicons.dev/icons?i=cs" height="40"/></a>
@@ -31,7 +31,7 @@
   <a href="https://dev.mysql.com/doc/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" height="40"/></a>
 </p>
 
-## ​˚₊‧꒰ა  🇹​​🇴​​🇴​​🇱​​🇸​ / 🇴🇹​​🇭🇪🇷​​ ​​໒꒱ ‧₊˚
+### ​˚₊‧꒰ა  🇹​​🇴​​🇴​​🇱​​🇸​ / 🇴🇹​​🇭🇪🇷​​ ​​໒꒱ ‧₊˚
 <p>
   <a href="https://git-scm.com/doc" target="_blank"><img src="https://skillicons.dev/icons?i=git" height="40"/></a>
   <a href="https://docs.github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
