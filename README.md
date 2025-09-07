@@ -46,7 +46,6 @@
   <a href="https://helpx.adobe.com/audition/user-guide.html" target="_blank"><img src="https://skillicons.dev/icons?i=au" height="40"/></a>
   <a href="https://unity.com/learn" target="_blank"><img src="https://skillicons.dev/icons?i=unity" height="40"/></a>
   <a href="https://yarnpkg.com/getting-started" target="_blank"><img src="https://skillicons.dev/icons?i=yarn" height="40"/></a>
-  <a href="https://docs.netlify.com/" target="_blank"><img src="https://skillicons.dev/icons?i=netlify" height="40"/></a>
 </p>
 
 ### ˚₊‧꒰ა  ​🇨​​🇷​​🇪​​🇦​​🇹​​🇮​​🇻​​🇪​ ​🇹​​🇪​​🇨​​🇭​ ໒꒱ ‧₊˚ 
