@@ -20,7 +20,7 @@
   <a href="https://threejs.org/docs/"><img src="https://skillicons.dev/icons?i=threejs" height="40"/></a>
 </p>
 
-### ˚₊‧꒰ა ​🇨​​🇾​​🇧​​🇪​​🇷​ / ​🇧​​🇦​​🇨​​🇰​​🇪​​🇳​​🇩​  ໒꒱ ‧₊˚
+### ˚₊‧꒰ა ​🇧​​🇦​​🇨​​🇰​​🇪​​🇳​​🇩​  ໒꒱ ‧₊˚
 <p>
   <a href="https://docs.python.org/3/" target="_blank"><img src="https://skillicons.dev/icons?i=python" height="40"/></a>
   <a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank"><img src="https://skillicons.dev/icons?i=cs" height="40"/></a>
